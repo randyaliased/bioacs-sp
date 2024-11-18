@@ -1,0 +1,13 @@
+acoustics==0.2.6
+ipython==8.12.3
+ipywidgets==8.1.5
+ipympl==0.9.4
+matplotlib==3.9.2
+numpy==2.1.3
+scipy==1.14.1
+sounddevice==0.5.1
+soundfile==0.12.1
+jupyter==1.1.1
+notebook==7.2.2
+
+
